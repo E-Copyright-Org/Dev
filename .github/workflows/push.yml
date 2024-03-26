@@ -38,7 +38,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'readme.md'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
 
@@ -48,7 +48,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'r.bat'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
 
@@ -58,7 +58,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'pnpm-workspace.yaml'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
           
@@ -68,7 +68,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'pnpm-lock.yaml'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti' 
           
@@ -78,7 +78,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: './frontend'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
 
@@ -88,6 +88,6 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: './backend'
-          destination_repo: 'LSM-E-Copyright/Test'
+          destination_repo: 'E-Copyright-Org/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
