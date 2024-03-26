@@ -38,6 +38,6 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.PAT_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'readme.md'
-          destination_repo: 'LSM-E-Copyright/Dev'
+          destination_repo: 'LSM-E-Copyright/Dev.git'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
