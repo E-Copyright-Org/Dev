@@ -77,7 +77,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
-          source_file: '/frontend'
+          source_file: './frontend'
           destination_repo: 'LSM-E-Copyright/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
@@ -87,7 +87,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
-          source_file: '/backend'
+          source_file: './backend'
           destination_repo: 'LSM-E-Copyright/Test'
           user_email: 'eng21ct0039@dsu.edu.in'
           user_name: 's-sukriti'
