@@ -17,6 +17,19 @@ E-Copyright is a copyright-focused assistant designed to provide prompt and reli
 3. **Receive Assistance:** E-Copyright will interpret your queries and provide prompt, tailored responses based on the information available in its extensive database.
 4. **Explore Resources:** Take advantage of E-Copyright's prompt library to explore additional queries and information on various copyright policies and regulations.
 
+## Proof Of Concept
+
+An interactive display of how the chatbot works. 
+Click here: https://www.figma.com/proto/iOlWVCeNOgQupCjB8rKW5w/E-Copyright?type=design&node-id=0-1&t=BIeARWYQTpyOckAt-0&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A11
+
+## Business Model Canvas & Value Proposition Canvas
+
+Our iterative versions of our business model.
+Click here: https://www.canva.com/design/DAF99JqoXSo/ysfUcXmXMtDZ3pkv5jMHIg/view?utm_content=DAF99JqoXSo&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+Our VPC
+Click here: https://www.canva.com/design/DAGAnYda6nw/xuVG6ZQXY4No2EnkwGLGbw/view?utm_content=DAGAnYda6nw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Installation
 
 E-Copyright is accessible directly through the government website hosting the chatbot. No installation is required.
