@@ -19,16 +19,13 @@ E-Copyright is a copyright-focused assistant designed to provide prompt and reli
 
 ## Proof Of Concept
 
-An interactive display of how the chatbot works. 
-[Click here](https://www.figma.com/proto/iOlWVCeNOgQupCjB8rKW5w/E-Copyright?type=design&node-id=0-1&t=BIeARWYQTpyOckAt-0&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A11)
+An interactive display of how the chatbot works: [Click here](https://www.figma.com/proto/iOlWVCeNOgQupCjB8rKW5w/E-Copyright?type=design&node-id=0-1&t=BIeARWYQTpyOckAt-0&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A11)
 
-## Business Model Canvas & Value Proposition Canvas
+### Business Model Canvas & Value Proposition Canvas
 
-Our iterative versions of our business model.
-[Click here](https://www.canva.com/design/DAF99JqoXSo/ysfUcXmXMtDZ3pkv5jMHIg/view?utm_content=DAF99JqoXSo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+BMC: [Click here](https://www.canva.com/design/DAF99JqoXSo/ysfUcXmXMtDZ3pkv5jMHIg/view?utm_content=DAF99JqoXSo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-Our VPC
-[Click here](https://www.canva.com/design/DAGAnYda6nw/xuVG6ZQXY4No2EnkwGLGbw/view?utm_content=DAGAnYda6nw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+VPC: [Click here](https://www.canva.com/design/DAGAnYda6nw/xuVG6ZQXY4No2EnkwGLGbw/view?utm_content=DAGAnYda6nw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Installation
 
