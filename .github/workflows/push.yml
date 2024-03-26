@@ -35,7 +35,7 @@ jobs:
       - name: readme.md
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
         env:
-          API_TOKEN_GITHUB: ${{ secrets.PAT_TOKEN }} # Use the correct environment variable name
+          API_TOKEN_GITHUB: ${{ secrets.COPY_TOKEN }} # Use the correct environment variable name
         with:
           source_file: 'readme.md'
           destination_repo: 'LSM-E-Copyright/Test'
