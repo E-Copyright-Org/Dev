@@ -29,7 +29,7 @@ VPC: [Click here](https://www.canva.com/design/DAGAnYda6nw/xuVG6ZQXY4No2EnkwGLGb
 
 ## Installation
 
-E-Copyright is accessible directly through the government website hosting the chatbot. No installation is required.
+E-Copyright is accessible directly through the government website hosting the chatbot. No installation is required. [Click here for the government website](https://copyright.gov.in/Default.aspx)
 
 ## Contact
 
