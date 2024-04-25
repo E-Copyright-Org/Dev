@@ -1,0 +1,127 @@
+body {
+  background-image: url('Screenshot 2024-04-14 135501.png');
+  background-size: cover; /* Adjust to your preference */
+  background-position: center center; /* Center the background image */
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensure the body covers the viewport height */
+}
+
+
+#chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(33, 151, 209, 0.882);
+  z-index: 999;
+}
+
+
+#chat-popup::before {
+  content: "";
+  display: table; /* Use table for layout */
+  width: 100%; /* Match the width of the chat popup */
+  height: 50px; /* Adjust height as needed */
+  padding: 5px; /* Adjust padding if needed */
+  border-radius: 5px 0 0 0;
+  background-image: url('Screenshot 2024-04-14 122145.png'), linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5));
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+#chat-popup::after {
+  content: "E-Copyright";  /* Your chatbot name */
+  display: table-cell; /* Treat the name as a table cell */
+  vertical-align: middle; /* Vertically align text in the middle */
+  padding: 5px;
+  font-weight: bold;
+  background-color: transparent; /* Transparent background for text */
+  color: rgb(23, 54, 192);
+  border-radius: 0 5px 0 0;
+}
+
+#chat-content {
+  max-height: 200px;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.chat-message {
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.received {
+  background-color: #e5e5ea;
+}
+
+.sent {
+  background-color: rgb(23, 54, 192);
+  color: white;
+}
+
+#user-input {
+  width: calc(100% - 20px);
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #855858;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #170e0e;
+  background-color: #fff;
+  transition: border-color 0.3s ease;
+}
+
+#user-input:focus {
+  outline: none;
+  border-color: #4762d7;
+  box-shadow: 0 0 5px rgba(118, 106, 160, 0.601);
+}
+
+
+#send-message {
+  width: calc(100% - 20px);
+  margin: 0 10px 10px;
+  padding: 5px;
+  background-color: rgb(23, 54, 192);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#send-message:focus {
+  outline: none;
+  border-color: #5054c9;
+  box-shadow: 0 0 5px rgba(118, 106, 160, 0.601);
+}
+#open-chat {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: rgb(23, 54, 192);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#open-chat img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
